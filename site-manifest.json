@@ -1,7 +1,8 @@
 {
   "canonicalUrl": "https://about.cfanla.com/",
   "designSourceSlug": "wired",
-  "generatedAt": "2026-08-13T02:51:50.704Z",
+  "generatedAt": "2026-08-13T14:47:40.370Z",
+  "publicJsLoaderUrl": "https://kol-js.pages.dev/loader.js",
   "siteId": "site-cfanla-com",
   "templateSlug": "personal-brand-editorial-print",
   "templateVersion": "0.1.0"
